@@ -1,0 +1,10 @@
+.\obj\scankey.o: ..\NUC140BSP\NuvotonPlatform_Keil\Src\NUC1xx-LB_002\ScanKey.c
+.\obj\scankey.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\scankey.o: ..\NUC140BSP\NuvotonPlatform_Keil\Include\Driver\DrvGPIO.h
+.\obj\scankey.o: ..\NUC140BSP\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h
+.\obj\scankey.o: ..\NUC140BSP\CMSIS\CM0\CoreSupport\core_cm0.h
+.\obj\scankey.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\scankey.o: ..\NUC140BSP\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h
+.\obj\scankey.o: ..\NUC140BSP\NuvotonPlatform_Keil\Include\System\SysInfra.h
+.\obj\scankey.o: ..\NUC140BSP\NuvotonPlatform_Keil\Include\System\ModuleID.h
+.\obj\scankey.o: ..\NUC140BSP\NuvotonPlatform_Keil\Include\NUC1xx-LB_002\ScanKey.h
